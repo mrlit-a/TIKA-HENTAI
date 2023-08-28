@@ -1,0 +1,22 @@
+{
+  "name": "TIKA HENTAI",
+  "description": "Customizable WhatsApp Bot",
+  "repository": "https://github.com/WhatsBot6/TIKA-HENTAI",
+  "logo": "https://telegra.ph/file/7d84f663bc6e7fdac5c66.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "TIKA HENTAI", "GURU-bot-md", "GURU-bot"],
+  "stack": "container",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
