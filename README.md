@@ -4,7 +4,7 @@
  <a href="#"><img title="TIKA HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/Creator andymrlit-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/andymrlit"><img title="Author" src="https://img.shields.io/badge/Creator andymrlit-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -28,7 +28,7 @@ TIKA HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 1. 🇱🇰 Fork Tika Hentai Git 🇱🇰
     <br>
-<a href='https://github.com/WhatsBot6/TIKA-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/WhatsBot6/TIKA-HENTAI/fork' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
