@@ -1,16 +1,16 @@
-# 💝 QUEEN HENTAI (18+ Adult Video Downloader And More Features) Bot 💝
+# 💝 TIKA HENTAI (18+ Adult Video Downloader And More Features) Bot 💝
 
 <p align="center">
- <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="TIKA HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/Creator andymrlit-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
   
 <p align="center">  
-  <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">
+  <a href="https://chat.whatsapp.com/KranoAXweimE4CmvDcKnei">
     <img alt=Support height="300" src="https://i.imgur.com/bFEC7lC.jpeg">
    
 </a> 
@@ -20,15 +20,15 @@
 <a 
 
 ####  
-QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
+TIKA HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 ***
 
 
 
-1. 🇱🇰 Fork Queen Hentai Git 🇱🇰
+1. 🇱🇰 Fork Tika Hentai Git 🇱🇰
     <br>
-<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/WhatsBot6/TIKA-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -42,16 +42,16 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 ---------
 
 ## ``Support Group``
-[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S) 
+[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KranoAXweimE4CmvDcKnei) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/QUEEN-HENTAI)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WhatsBot6/TIKA-HENTAI)
 ---------
 
 ## ```HEROKU TUTORIAL```
-[![Watch on YOUTUBE](https://img.shields.io/badge/youtube%20TUTORIAL-red?style=for-the-badge&logo=youtube)](https://youtu.be/udsSWHUyAy4) 
+[![Watch on YOUTUBE](https://img.shields.io/badge/youtube%20TUTORIAL-red?style=for-the-badge&logo=youtube)](https://youtu.be/Ay4) 
 ---------
 
 ## ```STEPS TO DEPLOY ON HEROKU```
@@ -80,7 +80,7 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 [![Deploy on COOLIFY](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)  
 
 ## ```DEPLOY IN REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/dinuwah/QUEEN-HENTAI)](https://replit.com)
+[![Run on Repl.it](https://repl.it/badge/github/WhatsBot6/TIKA-HENTAI)](https://replit.com)
 
 ## ```DEPLOY IN MOGENIUS```
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
