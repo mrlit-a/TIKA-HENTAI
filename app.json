@@ -7,6 +7,11 @@
   "repository": "https://github.com/mrlit-a/sukuna-test",
   "stack": "container",
   "env": {
+    "DATABASE_URL": {
+      "description": "your mongodb database url",
+      "required": true,
+      "value": ""
+    },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
@@ -27,22 +32,15 @@
       "required": true,
       "value": "20"
     },
-     "SET_LINK": {
+     "GROUP_LINK": {
       "description": "your group link bro",
       "required": true,
       "value": ""
-    },
-    addons": [
-    {
-      "plan": "heroku-postgresql"
     }
-  ],
+    },
     "buildpacks": [
     {
       "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
