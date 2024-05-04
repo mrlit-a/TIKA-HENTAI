@@ -8,14 +8,15 @@
    "env": {
     "SESSION_ID": {
       "description": "Your session id bro?",
-      "required": true
+      "required": true,
       "value": ""
     },
     "OWNER_NAME": {
       "description": "Enter Your Mode Type on For Public Otherwise Type off",
       "required": true,
-      "value": "on"
-   },
+      "value": ""
+   }
+ },   
    "addons": [
     {
       "plan": "heroku-postgresql"
