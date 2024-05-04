@@ -1,36 +1,32 @@
 {
-  "name": "TIKA HENTAI",
-  "description": "Customizable WhatsApp Bot",
+  "name": "Sukuna",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "productivity",
+    "suhailnmd",
+    "sukunabot"
+  ],
+  "website": "https://sukunaweb.onrender.com",
   "repository": "https://github.com/mrlit-a/sukuna-test",
-  "logo": "https://telegra.ph/file/7d84f663bc6e7fdac5c66.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "TIKA HENTAI", "GURU-bot-md", "GURU-bot"],
-  "stack": "container",
-   "env": {
-    "SESSION_ID": {
-      "description": "Your session id bro?",
-      "required": true,
-      "value": ""
+  "logo": "https://small-sharp-tool.com/logo.svg"
+  },
+  "env": {
+    "SECRET_TOKEN": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
     },
-    "OWNER_NAME": {
-      "description": "Enter Your Mode Type on For Public Otherwise Type off",
-      "required": true,
-      "value": ""
-   }
- },   
-   "addons": [
-    {
-      "plan": "heroku-postgresql"
+    "WEB_CONCURRENCY": {
+      "description": "The number of processes to run.",
+      "value": "5"
     }
-  ],  
+  },
+ {
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "heroku/ruby"
     }
   ]
 }
