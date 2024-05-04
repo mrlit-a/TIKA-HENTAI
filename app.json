@@ -1,16 +1,29 @@
 {
   "name": "TIKA HENTAI",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/WhatsBot6/TIKA-HENTAI",
+  "repository": "https://github.com/mrlit-a/sukuna-test",
   "logo": "https://telegra.ph/file/7d84f663bc6e7fdac5c66.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "TIKA HENTAI", "GURU-bot-md", "GURU-bot"],
   "stack": "container",
+   "env": {
+    "SESSION_ID": {
+      "description": "Your session id bro?",
+      "required": true
+      "value": ""
+    },
+    "OWNER_NAME": {
+      "description": "Enter Your Mode Type on For Public Otherwise Type off",
+      "required": true,
+      "value": "on"
+   },
+   "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],  
   "buildpacks": [
     {
       "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
