@@ -1,32 +1,55 @@
 {
-  "name": "Sukuna",
-  "description": "This app does one little thing, and does it well.",
+  "name": "whatsapp-bot (X-BOT)",
+  "description": " Whatsapp bot.",
   "keywords": [
-    "productivity",
-    "suhailnmd",
-    "sukunabot"
+    "whatsapp bot"
   ],
-  "website": "https://sukunaweb.onrender.com",
   "repository": "https://github.com/mrlit-a/sukuna-test",
-  "logo": "https://small-sharp-tool.com/logo.svg"
-  },
+  "stack": "container",
   "env": {
-    "SECRET_TOKEN": {
-      "description": "A secret key for verifying the integrity of signed cookies.",
-      "generator": "secret"
+    "DATABASE_URL": {
+      "description": "your mongodb database url",
+      "required": true,
+      "value": ""
     },
-    "WEB_CONCURRENCY": {
-      "description": "The number of processes to run.",
-      "value": "5"
+    "SESSION_ID": {
+      "description": "your session id",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_NAME": {
+      "description": "Add Your name",
+      "required": true,
+      "value": "andy MrLit"
+    },
+    "OWNER": {
+      "description": "Your number",
+      "required": true,
+      "value": "13092208152"
+    },
+     "LIMIT": {
+      "description": "Add your bot user limit",
+      "required": true,
+      "value": "20"
+    },
+     "SET_LINK": {
+      "description": "your group link bro",
+      "required": true,
+      "value": ""
     }
-  },
- {
-  "buildpacks": [
+    },
+    "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+      "url": "heroku/nodejs"
     },
     {
-      "url": "heroku/ruby"
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
 }
